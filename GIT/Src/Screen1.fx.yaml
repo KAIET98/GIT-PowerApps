@@ -6,3 +6,11 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
+    Image1 As image:
+        Height: =634
+        Image: =goya
+        Width: =1232
+        X: =60
+        Y: =60
+        ZIndex: =2
+
