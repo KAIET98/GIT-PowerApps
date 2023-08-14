@@ -129,6 +129,7 @@
     "UserLocale": "es-ES"
   },
   "ScreenOrder": [
-    "home_screen"
+    "home_screen",
+    "sign_in_screen"
   ]
 }
