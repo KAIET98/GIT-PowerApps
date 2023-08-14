@@ -112,7 +112,7 @@
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "primera_aplicacion.msapp",
+    "Name": "primera_aplicacion",
     "OriginatingVersion": "1.334",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
@@ -129,6 +129,6 @@
     "UserLocale": "es-ES"
   },
   "ScreenOrder": [
-    "Screen1"
+    "home_screen"
   ]
 }

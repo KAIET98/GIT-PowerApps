@@ -3,14 +3,13 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
+    "home_screen": 7,
     "Host": 3,
-    "Image1": 6,
-    "Label1": 5,
-    "Screen1": 4
+    "Label2": 8
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/10/2023 16:29:47",
+  "HeaderLastSavedDateTimeUTC": "08/14/2023 12:02:24",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -18,7 +17,7 @@
     "goya": "8567f556-acb0-4365-9632-cffb3248b434.png"
   },
   "LocalResourceRootPaths": {
-    "goya": "https://docserverpwaprodneu.blob.core.windows.net/ab36729a-a8c0-4c66-bff7-879fae076b18-1/resource/2b50bc42-bd83-4a0d-a0f5-097c17d99d28.png?sv=2018-03-28&sr=b&sig=Tdz5AIJN3S6RrsTxBE24I66%2BrojdDLauyjHI5bpfn2Y%3D&spr=https&se=2023-08-11T16%3A44%3A13Z&sp=r"
+    "goya": "https://docserverpwaprodneu.blob.core.windows.net/205e6a64-e2c9-4536-88ab-19d12df2a5fd-1/resource/Assets0Images08567f556-acb0-4365-9632-cffb3248b434.png?sv=2018-03-28&sr=b&sig=bnSVfE3uHtTTBeHr7bpBMbfx8Z0xXGPB0mTIR7ZyyaI%3D&spr=https&se=2023-08-15T12%3A16%3A35Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -27,24 +26,21 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "image": 1,
     "label": 0
   },
   "OverridablePropertiesEntry": {
     "App": {},
+    "home_screen": {},
     "Host": {},
-    "Image1": {},
-    "Label1": {},
-    "Screen1": {}
+    "Label2": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "home_screen": 0,
     "Host": 0,
-    "Image1": 1,
-    "Label1": 0,
-    "Screen1": 0
+    "Label2": 0
   },
   "ResourcesJsonIndices": {
     "Image-goya": 1,
@@ -53,12 +49,13 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0065585,
+    "AnalysisLoadTime": 0.0073622,
     "ControlCount": {
+      "image": 1,
       "label": 1,
       "screen": 1
     },
-    "DeserializationLoadTime": 0.0807827
+    "DeserializationLoadTime": 0.3694574
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

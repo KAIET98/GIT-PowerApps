@@ -1,0 +1,8 @@
+home_screen As screen:
+
+    Label2 As label:
+        Text: ="Bienvenido"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
