@@ -2,31 +2,31 @@
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
-    "addres_bb": 20,
+    "addres_bb": 12,
     "App": 1,
-    "birthdate_bb": 17,
-    "Button3": 22,
-    "email_bb": 18,
-    "error_message": 25,
-    "error_screen": 23,
-    "home_screen": 7,
+    "birthdate_bb": 9,
+    "Button3": 19,
+    "email_bb": 10,
+    "error_message": 14,
+    "error_screen": 13,
+    "home_screen": 17,
     "Host": 3,
-    "landing_page": 24,
-    "login_button": 11,
-    "name_bbdd": 14,
-    "password_login": 10,
-    "sign_in_screen": 12,
-    "signin_bb": 21,
-    "surname1_bb": 15,
-    "surname2_bb": 16,
-    "telf_bb": 19,
-    "username_login": 9,
-    "welcome_message": 8,
-    "welcome_message_landing_page": 26
+    "landing_page": 15,
+    "login_button": 22,
+    "name_bbdd": 6,
+    "password_login": 21,
+    "sign_in_screen": 4,
+    "signin_bb": 5,
+    "surname1_bb": 7,
+    "surname2_bb": 8,
+    "telf_bb": 11,
+    "username_login": 20,
+    "welcome_message": 18,
+    "welcome_message_landing_page": 16
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/14/2023 12:24:15",
+  "HeaderLastSavedDateTimeUTC": "08/14/2023 12:27:08",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -34,7 +34,7 @@
     "goya": "8567f556-acb0-4365-9632-cffb3248b434.png"
   },
   "LocalResourceRootPaths": {
-    "goya": "https://docserverpwaprodneu.blob.core.windows.net/205e6a64-e2c9-4536-88ab-19d12df2a5fd-1/resource/Assets0Images08567f556-acb0-4365-9632-cffb3248b434.png?sv=2018-03-28&sr=b&sig=bnSVfE3uHtTTBeHr7bpBMbfx8Z0xXGPB0mTIR7ZyyaI%3D&spr=https&se=2023-08-15T12%3A16%3A35Z&sp=r"
+    "goya": "https://docserverpwaprodneu.blob.core.windows.net/205e6a64-e2c9-4536-88ab-19d12df2a5fd-1/resource/Assets0Images08567f556-acb0-4365-9632-cffb3248b434.png?sv=2018-03-28&sr=b&sig=FVX1tPrh3wqxhQplKPnQU1CRnF4U931W8K45ZEZg5WQ%3D&spr=https&se=2023-08-15T12%3A41%3A52Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -43,8 +43,8 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 1,
-    "label": 0
+    "button": 0,
+    "label": 1
   },
   "OverridablePropertiesEntry": {
     "addres_bb": {},
@@ -101,13 +101,13 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0073622,
+    "AnalysisLoadTime": 0.0335923,
     "ControlCount": {
-      "image": 1,
-      "label": 8,
-      "screen": 1
+      "button": 3,
+      "label": 12,
+      "screen": 4
     },
-    "DeserializationLoadTime": 0.3694574
+    "DeserializationLoadTime": 1.8190961
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
