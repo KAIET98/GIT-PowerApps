@@ -1,7 +1,7 @@
 
 
 CREATE TABLE dimension_productos (
-id_producto identity(1,1) not null primary key,
+id_producto int identity(1,1) not null primary key,
 id_idioma int not null,
 id_ingrediente int not null,
 id_alergia int not null,

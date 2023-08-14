@@ -2,15 +2,31 @@
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
+    "addres_bb": 20,
     "App": 1,
+    "birthdate_bb": 17,
+    "Button3": 22,
+    "email_bb": 18,
+    "error_message": 25,
+    "error_screen": 23,
+    "home_screen": 7,
     "Host": 3,
-    "Image1": 6,
-    "Label1": 5,
-    "Screen1": 4
+    "landing_page": 24,
+    "login_button": 11,
+    "name_bbdd": 14,
+    "password_login": 10,
+    "sign_in_screen": 12,
+    "signin_bb": 21,
+    "surname1_bb": 15,
+    "surname2_bb": 16,
+    "telf_bb": 19,
+    "username_login": 9,
+    "welcome_message": 8,
+    "welcome_message_landing_page": 26
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/10/2023 16:29:47",
+  "HeaderLastSavedDateTimeUTC": "08/14/2023 12:24:15",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -18,7 +34,7 @@
     "goya": "8567f556-acb0-4365-9632-cffb3248b434.png"
   },
   "LocalResourceRootPaths": {
-    "goya": "https://docserverpwaprodneu.blob.core.windows.net/ab36729a-a8c0-4c66-bff7-879fae076b18-1/resource/2b50bc42-bd83-4a0d-a0f5-097c17d99d28.png?sv=2018-03-28&sr=b&sig=Tdz5AIJN3S6RrsTxBE24I66%2BrojdDLauyjHI5bpfn2Y%3D&spr=https&se=2023-08-11T16%3A44%3A13Z&sp=r"
+    "goya": "https://docserverpwaprodneu.blob.core.windows.net/205e6a64-e2c9-4536-88ab-19d12df2a5fd-1/resource/Assets0Images08567f556-acb0-4365-9632-cffb3248b434.png?sv=2018-03-28&sr=b&sig=bnSVfE3uHtTTBeHr7bpBMbfx8Z0xXGPB0mTIR7ZyyaI%3D&spr=https&se=2023-08-15T12%3A16%3A35Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -27,24 +43,56 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "image": 1,
+    "button": 1,
     "label": 0
   },
   "OverridablePropertiesEntry": {
+    "addres_bb": {},
     "App": {},
+    "birthdate_bb": {},
+    "Button3": {},
+    "email_bb": {},
+    "error_message": {},
+    "error_screen": {},
+    "home_screen": {},
     "Host": {},
-    "Image1": {},
-    "Label1": {},
-    "Screen1": {}
+    "landing_page": {},
+    "login_button": {},
+    "name_bbdd": {},
+    "password_login": {},
+    "sign_in_screen": {},
+    "signin_bb": {},
+    "surname1_bb": {},
+    "surname2_bb": {},
+    "telf_bb": {},
+    "username_login": {},
+    "welcome_message": {},
+    "welcome_message_landing_page": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
+    "addres_bb": 10,
     "App": 0,
+    "birthdate_bb": 7,
+    "Button3": 0,
+    "email_bb": 8,
+    "error_message": 0,
+    "error_screen": 0,
+    "home_screen": 0,
     "Host": 0,
-    "Image1": 1,
-    "Label1": 0,
-    "Screen1": 0
+    "landing_page": 0,
+    "login_button": 3,
+    "name_bbdd": 4,
+    "password_login": 2,
+    "sign_in_screen": 0,
+    "signin_bb": 0,
+    "surname1_bb": 5,
+    "surname2_bb": 6,
+    "telf_bb": 9,
+    "username_login": 1,
+    "welcome_message": 0,
+    "welcome_message_landing_page": 0
   },
   "ResourcesJsonIndices": {
     "Image-goya": 1,
@@ -53,12 +101,13 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0065585,
+    "AnalysisLoadTime": 0.0073622,
     "ControlCount": {
-      "label": 1,
+      "image": 1,
+      "label": 8,
       "screen": 1
     },
-    "DeserializationLoadTime": 0.0807827
+    "DeserializationLoadTime": 0.3694574
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

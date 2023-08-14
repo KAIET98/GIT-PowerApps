@@ -1,0 +1,50 @@
+sign_in_screen As screen:
+
+    name_bbdd As label:
+        Text: ="Nombre"
+        X: =60
+        Y: =128
+        ZIndex: =1
+
+    surname1_bb As label:
+        Text: ="Apellido 1"
+        X: =60
+        Y: =181
+        ZIndex: =2
+
+    surname2_bb As label:
+        Text: ="Apellido 2"
+        X: =60
+        Y: =241
+        ZIndex: =3
+
+    birthdate_bb As label:
+        Text: ="Fecha nacimiento"
+        X: =60
+        Y: =293
+        ZIndex: =4
+
+    email_bb As label:
+        Text: ="email"
+        X: =60
+        Y: =355
+        ZIndex: =5
+
+    telf_bb As label:
+        Text: ="telf"
+        X: =60
+        Y: =414
+        ZIndex: =6
+
+    addres_bb As label:
+        Text: ="direccion"
+        X: =60
+        Y: =466
+        ZIndex: =7
+
+    signin_bb As button:
+        Text: ="Sign in"
+        X: =60
+        Y: =522
+        ZIndex: =8
+
