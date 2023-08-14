@@ -1,8 +1,28 @@
 home_screen As screen:
 
-    Label2 As label:
-        Text: ="Bienvenido"
-        X: =40
-        Y: =40
+    welcome_message As label:
+        Height: =65
+        Text: ="Bienvenido a Goya"
+        Width: =942
+        X: =72
+        Y: =60
         ZIndex: =1
+
+    username_login As label:
+        Text: ="Enter username"
+        X: =72
+        Y: =153
+        ZIndex: =2
+
+    password_login As label:
+        Text: ="Enter password"
+        X: =72
+        Y: =210
+        ZIndex: =3
+
+    login_button As button:
+        Text: ="Login"
+        X: =72
+        Y: =268
+        ZIndex: =4
 

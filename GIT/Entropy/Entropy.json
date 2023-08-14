@@ -5,11 +5,14 @@
     "App": 1,
     "home_screen": 7,
     "Host": 3,
-    "Label2": 8
+    "login_button": 11,
+    "password_login": 10,
+    "username_login": 9,
+    "welcome_message": 8
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/14/2023 12:02:24",
+  "HeaderLastSavedDateTimeUTC": "08/14/2023 12:03:54",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -26,13 +29,17 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
+    "button": 1,
     "label": 0
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "home_screen": {},
     "Host": {},
-    "Label2": {}
+    "login_button": {},
+    "password_login": {},
+    "username_login": {},
+    "welcome_message": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
@@ -40,7 +47,10 @@
     "App": 0,
     "home_screen": 0,
     "Host": 0,
-    "Label2": 0
+    "login_button": 0,
+    "password_login": 0,
+    "username_login": 0,
+    "welcome_message": 0
   },
   "ResourcesJsonIndices": {
     "Image-goya": 1,
@@ -52,7 +62,7 @@
     "AnalysisLoadTime": 0.0073622,
     "ControlCount": {
       "image": 1,
-      "label": 1,
+      "label": 2,
       "screen": 1
     },
     "DeserializationLoadTime": 0.3694574
