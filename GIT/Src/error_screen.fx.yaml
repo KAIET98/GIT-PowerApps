@@ -1,0 +1,8 @@
+error_screen As screen:
+
+    error_message As label:
+        Text: ="Whoops, something happened"
+        X: =40
+        Y: =40
+        ZIndex: =1
+

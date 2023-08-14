@@ -130,6 +130,8 @@
   },
   "ScreenOrder": [
     "home_screen",
-    "sign_in_screen"
+    "sign_in_screen",
+    "error_screen",
+    "landing_page"
   ]
 }

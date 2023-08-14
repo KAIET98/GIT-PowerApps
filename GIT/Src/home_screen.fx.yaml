@@ -26,3 +26,9 @@ home_screen As screen:
         Y: =268
         ZIndex: =4
 
+    Button3 As button:
+        Text: ="Sign In"
+        X: =72
+        Y: =350
+        ZIndex: =5
+

@@ -1,0 +1,8 @@
+landing_page As screen:
+
+    welcome_message_landing_page As label:
+        Text: ="Welcome to goya"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
