@@ -17,7 +17,7 @@ fecha_baja varchar(4000),
 id_idioma INT not null,
 id_alergia int null,
 FOREIGN KEY (id_idioma) REFERENCES dimension_idiomas(id_idioma), 
-FOREIGN KEY (id_alergia) REFERENCES dimension_alergias(id_alergia)
+FOREIGN KEY (id_alergia) REFERENCES dimension_alergias(id_alergia_pk)
 
 
 )
