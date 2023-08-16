@@ -10,7 +10,7 @@ CREATE TABLE pedidos (
     fecha_ini_pedido datetime2 not null,
     fecha_fin_pedido datetime2,
     FOREIGN KEY (id_cliente) REFERENCES dimension_usuarios(id_usuario), 
-    FOREIGN KEY (id_producto) REFERENCES dimension_productos(id_producto), 
-    FOREIGN KEY (id_alergia) REFERENCES dimension_alergias(id_alergia)
+    FOREIGN KEY (id_producto) REFERENCES dimension_productos(id_produto_pk), 
+FOREIGN KEY (id_alergia) REFERENCES dimension_alergias(id_alergia_pk)
 
 )   
